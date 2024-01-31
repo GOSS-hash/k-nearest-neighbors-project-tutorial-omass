@@ -41,3 +41,7 @@ ML Operations
 Continuous Learning: Models are retrained with updated data for accuracy.
 Data Validation: Regular checks for data quality and integrity.
 Model Monitoring: Ongoing performance tracking to detect and address data drift.
+
+
+Setup and Run
+git clone https://github.com/GOSS-hash/k-nearest-neighbors-project-tutorial-omass/tree/main
