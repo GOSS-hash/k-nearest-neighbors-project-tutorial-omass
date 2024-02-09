@@ -27,6 +27,7 @@ The KNN model is implemented using cosine similarity to measure the distance bet
 recommend('Inception', similarity_matrix, joined_df)
 
 
+
 For questions or contributions, please contact spomar36@gmail.com.
 
 Cloud Production Services and ML Operations
