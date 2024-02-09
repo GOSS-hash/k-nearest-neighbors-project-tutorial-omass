@@ -1,4 +1,4 @@
-# Movie Success Predictor using KNN
+# Movie Recommendation Predictor using KNN
 
 A KNN-based machine learning project, designed to predict a movie's commercial success by analyzing TMDB data. We use cosine similarity for feature comparison and TF-IDF for text vectorization.
 
